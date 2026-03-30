@@ -10,3 +10,12 @@
   },
   "keywords": ["api", "biblioteca", "nodejs", "express"],
   "author": "Matheus",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.0",
+    "jest": "^29.0.0"
+  }
+}
